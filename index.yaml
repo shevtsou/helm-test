@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  helm-test:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-02-04T15:59:24.990914376+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 296e01e886436806e6eccb5a06bb1fd026dab47e6ae7c7edf271529f330fbc48
+    name: helm-test
+    type: application
+    urls:
+    - https://gree-gorey.github.io/helm-example/helm-test-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-02-04T15:59:24.990342465+03:00"
